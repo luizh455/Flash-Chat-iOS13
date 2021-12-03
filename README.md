@@ -35,4 +35,4 @@ By the end of this project, I've got a fully functional app similar to Whatsapp.
 * Learn about the App Lifecycle and how to use viewWillAppear or viewWillDisappear.
 * How to create direct Segues for navigation.
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp complete by Luiz Silva.
+>This is a companion project to The App Brewery's Complete App Development Bootcamp completed by Luiz Silva.
